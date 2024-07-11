@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-# Description: Write a coroutine called async_comprehension that takes no
-# arguments.
+"""
+Description: Write a coroutine called async_comprehension that takes no
+arguments.
+"""
 
 
 from typing import List

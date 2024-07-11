@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-# Description: Write a function measure_runtime that measures the total runtime
+"""
+Description: Write a coroutine called measure_runtime that will execute
+"""
 
 import asyncio
 import time
